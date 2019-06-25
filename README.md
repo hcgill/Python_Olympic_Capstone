@@ -5,6 +5,7 @@ Files included:
 - athlete_events_data.zip (contains athlete_events.csv)
 - olympic_capstone.ipynb
 - olympic_capstone_data_wrangling.pdf
+- olympic capstone report.pdf
 
 
 Descriptions of each file: 
@@ -19,3 +20,6 @@ Descriptions of each file:
 
 - olympic_capstone_data_wrangling.pdf
 -- pdf document containing steps taken in the data wrangling process
+
+- olympic capstone report.pdf
+-- pdf document containing final report for dataset
